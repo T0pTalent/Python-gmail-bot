@@ -1,11 +1,6 @@
 # Python-gmail-bot
 ## Python app to fast organize gmail with labels
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
 ## General info
 This app is using Google API. It allows to create new label, and add messages from specific sender.\
 For example:\
